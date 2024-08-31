@@ -164,3 +164,4 @@ footer {
   }
 }
 figure {border: 2px solid rgba(140,140,140,0.2);padding:10px;}
+img {max-width:400px!important;}
