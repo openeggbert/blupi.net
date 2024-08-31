@@ -163,3 +163,4 @@ footer {
     margin: 10px 0; /* Space between list items when stacked */
   }
 }
+figure {border: 2px solid rgba(140,140,140,0.2);padding:10px;}
